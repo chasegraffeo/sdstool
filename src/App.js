@@ -33,11 +33,11 @@ function App() {
       {isOpen && (
        <div>
         <div>
-          A Bitch
+          know
         </div>
 
         <Button  variant="flat" size="xxl" onClick={() => setIsOpen(false)}>
-          Love You
+         I Love You
         </Button>
        </div>
          )}
