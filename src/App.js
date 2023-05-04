@@ -22,7 +22,7 @@ function App() {
           <iframe
             title="callBoard"           
             sandbox="allow-same-origin allow-forms allow-scripts"  
-            src="https://synovus.clearviewportal.com/Admin/WallboardView.aspx?id=4eeaa788-2b49-4bba-ba18-b5bcb91f7c86"
+            src=""
           ></iframe>
         </div>   
 
@@ -129,7 +129,7 @@ export default BasicExample; */
           <iframe
             title="callBoard"           
             sandbox="allow-same-origin allow-forms allow-scripts"  
-            src="https://synovus.clearviewportal.com/Admin/WallboardView.aspx?id=4eeaa788-2b49-4bba-ba18-b5bcb91f7c86"
+            src=""
           ></iframe>
         </div>   */
 }
